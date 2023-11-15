@@ -36,11 +36,11 @@
       > The project is doable, with further experience, the webspace will grow for sure.      
 
    -  Affordability [ Leistbarkeit ]
-      > I have a lot of time and some random hardware to evem host low-traffic websites myself.
+      > I have a lot of time and some random hardware to even host low-traffic websites myself.
 
    -  Market/Economic Effect [ Marktsituation ]
-      > There are webspaces for such aplication out there, but non of my own,
-      > so i rely on others to provide the service.
+      > There are webspaces for such usecases out there, but non of my own ..
+      .. so i rely on others to provide the service.
       
 ---
 </details>  
@@ -59,12 +59,12 @@
 
   - > to be easy playable and for the code of said games to be easy read/investigated  
 
-  - > to help myself as well as others in our future programming  
+  - > to help myself as well as maybe others in our future programming  
         
 #### b) *Our abilities*:  
   - > I am learning different programming languages and want to keep track of my learning expirience  
 
-  - > With growing knoledge, the progress shall be visible on the webspace and users should be able to trace it back  
+  - > With growing knowledge, the progress shall be visible on the webspace and users should be able to trace it back eventually..
 
 ---
 ### **2.) General conditions & Constraints**:  
@@ -77,7 +77,7 @@
 > ..  
 
 - *Budget*:  
-    > initial costs are low, exept dor the inversted time  
+    > initial costs are low, exept for the invested time  
   - *Knowhow*:  
     > my knowhow is growing and expanding, as explained, the process of "growing" might be interesting to see  
   - *Colaborators*:  
@@ -128,7 +128,7 @@
   ...
 
 #### b)  *easy view and play with (execute) code*:  
-   - each program shall have their fixed pages for "execute code"  
+   - each program shall have it's fixed pages for "execute code"  
      > for example to run a game of Tik-Tak-Toe  
    - fixed pages for code viewing  
      > to read a very well documented code line by line, while executing them in the other tab/window  
@@ -144,7 +144,7 @@
 
 #### a) *Market analysis*:  
   - There are other sites than github etc.  
-    > that let's you host your own programs, and even make them playable anline 
+    > that let's you host your own programs, and even make them playable online 
     but they are all packed with adverts and you have to comply to their code of conduct etc...
 
 #### b) *Customers*:  
